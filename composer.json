@@ -1,0 +1,16 @@
+{
+    "name": "mrlexcoder/investingduck",
+    "description": "Description [A sample project]:",
+    "autoload": {
+        "psr-4": {
+            "Mrlexcoder\\Investingduck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mrlexcoder",
+            "email": "mrlexcoder@gmail.com"
+        }
+    ],
+    "require": {}
+}
